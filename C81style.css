@@ -1,0 +1,27 @@
+
+h1
+{
+	color: black; 
+	font-size: 30px;
+	font-family: 'Kufam', cursive;
+	font-weight: 400;
+}
+.body_backgorund {
+	background:linear-gradient(darkcyan ,darkorange) ;
+	height: 100%;
+	padding-bottom: 100px;
+}
+input{
+	font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+button{
+	font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+
+#myCanvas{
+border: ridge;
+border-width: 10px;
+background-color: white;
+}
